@@ -4,4 +4,4 @@
 <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,express,jenkins,raspberrypi,postman,git,github" /> <br /><br />
   
 # NOW TRAINING
-<img src="https://skillicons.dev/icons?i=vue" /> <br /><br />
+<img src="https://github.com/kirodotdev/Kiro/blob/main/assets/kiro-icon.png" width="48" /> <br /><br />
